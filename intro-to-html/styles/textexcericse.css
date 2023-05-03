@@ -1,0 +1,187 @@
+.font{
+  font-family: tahoma;
+  font-weight: bold;
+  font-size: 34px;
+}
+.sale{
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 22px;
+  width: 300px;
+}
+.end{
+  color: red;
+  font-family: Arial;
+  font-weight: lighter;
+  font-size: 16px;
+  line-height: 26px;
+
+
+}
+.course{
+  font-family: verdana;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 0;
+  
+}
+.level{
+  font-family: Verdana;
+  color: rgb(96, 96, 96);
+  margin-top: 2px;
+  line-height: 12px;
+  font-size: 14px;
+}
+.detail{
+  font-family: Verdana;
+  width: 300px;
+
+}
+.start{
+  font-family: Verdana;
+  background-color: green;
+  color: white;
+  border: none;
+  padding-left:16px;
+  padding-top: 8px;
+  padding-right:16px;
+  padding-bottom: 8px;
+  border-radius: 6px;
+  cursor: pointer;
+  
+}
+.shoping {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 0;
+
+}
+.work{
+  text-align: center;
+  font-family: Arial;
+  font-size: 14px;
+  width: 220px; 
+}
+.more {
+color: blue;
+text-align: center;
+font-family: Arial;
+font-size: 14px;
+line-height: 34px;
+cursor: pointer;
+}
+.new {
+    color: rgb(245, 99, 0);
+    margin-bottom: 10px;
+    font-family: Arial;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+
+  }
+  .product {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-family: Arial;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .title {
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-family: Arial;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+
+  }
+  .price {
+    margin-bottom: 25px;
+    font-family: Arial;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .buy {
+    background-color: rgb(0, 113, 227);
+    color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: Arial;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .price {
+    font-family: Arial;
+    font-size: 22px;
+
+  }
+  .currency {
+    color: rgb(96, 96, 96);
+    font-size:12px;
+  }
+  .stoke{
+    color: green;
+    text-align: center;
+    margin-top: 2px;
+    font-family: Arial;
+    font-size: 14px;
+  }
+  .time {
+    font-family: Arial;
+    color: rgb(96, 96, 96);
+    text-align: center;
+    font-size:14px;
+    line-height: 2px;
+  }
+  .per {
+    color: red;
+  }
+  .tweet-header {
+    margin-bottom: 5px;
+    font-family: Arial;
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .tweet-author {
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .tweet-info {
+    color: rgb(100, 100, 100);
+    font-family: Arial;
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .tweet {
+    width: 600px;
+    line-height: 25px;
+    margin-bottom: 20px;
+    font-family: Arial;
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .twitter-handle {
+    color: rgb(29, 155, 240);
+    font-family: Arial;
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 0;
+
+  }
